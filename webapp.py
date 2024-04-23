@@ -78,8 +78,3 @@ if a:
     st.success("Diagnosis completed ✅")
     st.success(text)
     
-# st.text("Developed By")
-# st.text("Rakesh Kanneeswaran Maravar")    
-# st.text("B.Tech Computer Science and Technology")
-# st.text("Department of Computing Technologies")
-# st.text("SRM Institute of Science and Technology Chennai")
